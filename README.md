@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: NCB DrugNet Intelligence Platform
 emoji: 🛡️
 colorFrom: green
@@ -173,3 +174,15 @@ For a detailed walkthrough, see [HF_DEPLOYMENT_PLAN.md](./HF_DEPLOYMENT_PLAN.md)
 > - ✅ No private messages or accounts are intercepted  
 > - ✅ All evidence is SHA-256 hashed for court admissibility  
 > - ❌ Unauthorized use is strictly prohibited
+=======
+title: Drug Detect Ai
+emoji: 📉
+colorFrom: gray
+colorTo: red
+sdk: docker
+pinned: false
+license: mit
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> 1cb12c7fecf0db7167070a5c1b4189396042ed88

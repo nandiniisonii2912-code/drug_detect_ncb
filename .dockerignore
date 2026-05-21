@@ -1,0 +1,16 @@
+.venv/
+.git/
+__pycache__/
+*.pyc
+.env
+*.pt
+*.bin
+*.safetensors
+*.ckpt
+.pytest_cache/
+.coverage
+*.pdf
+outputs/
+logs/
+data/
+temp/
